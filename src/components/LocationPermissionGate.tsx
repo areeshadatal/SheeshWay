@@ -19,7 +19,7 @@ export default function LocationPermissionGate() {
       <div className="max-w-md w-full">
         <div className="text-center mb-8">
           <img
-            src="/images/WhatsApp_Image_2026-09-15_at_14.20.14.jpeg"
+            src="/images/logo.png"
             alt="SheeshWay"
             className="w-20 h-20 rounded-2xl mx-auto mb-4 object-cover shadow-lg"
           />

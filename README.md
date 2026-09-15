@@ -1,3 +1,12 @@
-# Womens_Safety_While_Travelling
+# SheeshWay
 
-[![Open in Bolt](https://bolt.new/static/open-in-bolt.svg)](https://bolt.new/~/sb1-fqvszixu)
+AI-powered smart safety navigation platform for women.
+
+## Features
+
+- Time-aware safety scoring
+- Personalized route preferences
+- Community safety reports
+- Real-time travel conditions
+- Safe public places
+- Low-connectivity and low-battery support

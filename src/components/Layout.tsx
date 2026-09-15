@@ -56,7 +56,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
         <div className="p-5 border-b border-rose-100">
           <div className="flex items-center gap-2">
             <img
-              src="/images/WhatsApp_Image_2026-09-15_at_14.20.14.jpeg"
+              src="/images/logo.png"
               alt="SheeshWay"
               className="w-9 h-9 rounded-xl object-cover"
             />
@@ -115,7 +115,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
       <div className="md:hidden fixed top-0 left-0 right-0 z-50 bg-white border-b border-rose-100 px-4 h-14 flex items-center justify-between">
         <div className="flex items-center gap-2">
           <img
-            src="/images/WhatsApp_Image_2026-09-15_at_14.20.14.jpeg"
+            src="/images/logo.png"
             alt="SheeshWay"
             className="w-8 h-8 rounded-lg object-cover"
           />
